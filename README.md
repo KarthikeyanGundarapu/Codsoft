@@ -1,4 +1,4 @@
-🎓 Cod soft Web devolopment Internship - Task Repository
+🎓 Web devolopment Internship - Task Repository
 
 Welcome to the repository for Web devolopment internship at Cod soft. Here, I’ll be documenting my progress and solutions for the assigned tasks throughout the internship.
 
